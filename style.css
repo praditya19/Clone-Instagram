@@ -1,0 +1,152 @@
+body{
+    background-color: white;
+}
+.hei{
+    width: 100%;
+    height: 850px;
+}
+.bebek{
+    margin-block-start: 80px;
+    margin-left: 240px;
+    width: 420px;
+    height: 550px;
+}
+td{
+    width: 50%;
+}
+.nasgor{
+    border-style: ridge;
+    border-width: 1px;
+    border-color: rgb(167, 167, 167);
+    margin-left: 60px;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 540px;
+}
+.logo{
+    width: 200px;
+    margin-left: 70px;
+    margin-block-start: 20px;
+}
+.nasgor h2{
+    margin-block-start: 5px;
+    font-family: "Century Gothic";
+    color: #999;
+    font-size: 17px;
+    text-align: center;
+    
+}
+.nasgor button{
+    margin-left: 41px;
+    width: 253px;
+    background-color: rgb(53, 138, 248);
+    color: white;
+    border: 0;
+   border-radius: 3px;
+    height: 30px;
+    cursor: pointer;
+}
+.kenyang{
+    margin-block-start: 30px;
+    width: 90px;
+    margin-left: 40px;
+}
+.minum{
+    color: #999;
+    margin-block-start: -30px;
+    text-align: center;
+    margin-left: -12px;
+}
+.totok{
+    width: 90px;
+    margin-block-start: -25px;
+    margin-left: 200px;
+}
+.yoyo{
+    margin-left: 40px;
+    border-radius: 2px;
+    border-width: 1px;
+    background-color: rgba(243, 243, 243, 0.39);
+    border-color: rgba(196, 195, 195, 0.336);
+    width: 253px;
+    height: 33px;
+    font-size: 12px;
+    text-align: left;
+    
+}
+.nanda{
+    margin-block-start: 10px;
+}
+.reyhan{
+    margin-block-start: 10px;
+}
+.robot{
+    margin-block-start: 10px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.yaps{
+    margin-block-start: 10px;
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+}
+.nur{
+    text-align: center;
+    height: 70px;
+    margin-block-start: 10px;
+    box-sizing: border-box;
+    border-style: ridge;
+    border-width: 1px;
+    border-color: rgb(167, 167, 167);
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 60px;
+}
+.nur p{
+    font-size: 14px;
+    margin-block-start: 19px;
+}
+.yos{
+    font-size: 14px;
+    margin-block-start: 10px;
+    margin-left: 190px;
+}
+.suep{
+    box-sizing: border-box;
+    background: 0;
+    height: 70px;
+    width: 500px;
+}
+.suep img{
+    margin: 15px 5px 10px 20px;
+    height: 40px;
+}
+.rendi{
+    margin-block-end: 20px;
+    margin-left: 150px;
+    width: 1000px;
+    height: 50px;
+}
+.rendi ul{
+    list-style-type: none;
+}
+.rendi li{
+    
+    float: left;
+    margin: 5px 5px 5px 5px;
+}
+.rendi li a{
+    font-weight: 500;
+    color: rgb(6, 6, 56);
+    font-size: 12px;
+    text-decoration: none;
+}
+.rendi  p{
+    margin-left: 750px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-block-start: -30px;
+    color: rgb(100, 99, 99);
+}
